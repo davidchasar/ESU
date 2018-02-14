@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=int[][]\ cofactor(int[][])
+comment1.params=dm
+comment1.target=int\ determanant(int[][])
+comment2.params=key\ plainText
+comment2.target=java.lang.String\ encrypt(int[][],\ java.lang.String)
+comment3.params=key
+comment3.target=int[][]\ inverseKey(int[][])
+comment4.params=key\ cipherText
+comment4.target=java.lang.String\ decrypt(int[][],\ java.lang.String)
+comment5.params=fm
+comment5.target=void\ printArray(int[][])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
