@@ -1,18 +1,15 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the project README file. 
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Caesar Cipher 
 PURPOSE OF PROJECT: To write a program that can encrypt and decrypt various messages and keys.
 VERSION or DATE:Jan 2016
-HOW TO START THIS PROJECT:
 AUTHORS: David Chasar
-USER INSTRUCTIONS:
+
 
 CPSC370: Introduction to Computer Cryptology
-Program 1: Caesar Cipher
+Caesar Cipher
 Due Sunday, January 10, 2016 11:59PM
 In this programming assignment, you are asked to write C/C++/Java codes to implement
 encryption/decryption functions for Caesar Cipher, and brute force attack function for cipher
