@@ -1,15 +1,13 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the project README file. 
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Hill Cipher
 PURPOSE OF PROJECT: Implementation of encryption and decryption for 3x3 Hill Cipher
-VERSION or DATE:
-HOW TO START THIS PROJECT:
+VERSION or DATE:Jan 2016
 AUTHORS: David Chasar
-USER INSTRUCTIONS:
+
+
 Hill Cipher
 CPSC370:  Introduction to Computer Cryptology
 Due Wednesday, January 20, 2016 11:59PM
